@@ -1,0 +1,154 @@
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\CookiesDumper.exe.config
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\CookiesDumper.exe
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\CookiesDumper.pdb
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\obj\Debug\CookiesDumper.Properties.Resources.resources
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\obj\Debug\CookiesDumper.csproj.GenerateResource.cache
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\obj\Debug\CookiesDumper.csproj.CoreCompileInputs.cache
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\obj\Debug\CookiesDumper.exe
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\obj\Debug\CookiesDumper.pdb
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\x86\sqlite3.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\x64\sqlite3.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\EntityFramework.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\System.Data.SQLite.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\EntityFramework.xml
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\System.Data.SQLite.xml
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\obj\Debug\CookiesDumper.csproj.CopyComplete
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\Chessie.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\FSharp.Core.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\Mono.Cecil.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\NuGet.Common.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\NuGet.Configuration.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\NuGet.Frameworks.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\NuGet.Packaging.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\NuGet.Versioning.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\Paket.Core.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\System.Buffers.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\System.Memory.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\Chessie.pdb
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\Chessie.xml
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\FSharp.Core.xml
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\Mono.Cecil.pdb
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\Mono.Cecil.Mdb.pdb
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\Mono.Cecil.Pdb.pdb
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\Mono.Cecil.Rocks.pdb
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\NuGet.Common.xml
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\NuGet.Configuration.xml
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\NuGet.Frameworks.xml
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\NuGet.Packaging.xml
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\NuGet.Versioning.xml
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\Paket.Core.xml
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\System.Buffers.xml
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\System.Memory.xml
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\System.CodeDom.dll
+C:\Users\TAWFIK\Desktop\CookiesDumper\CookiesDumper\bin\Debug\System.CodeDom.xml
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\x86\sqlite3.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\x64\sqlite3.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\CookiesDumper.exe.config
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\CookiesDumper.exe
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\CookiesDumper.pdb
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\Chessie.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\EntityFramework.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\FSharp.Core.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\Mono.Cecil.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\NuGet.Common.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\NuGet.Configuration.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\NuGet.Frameworks.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\NuGet.Packaging.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\NuGet.Versioning.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\Paket.Core.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\System.Buffers.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\System.CodeDom.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\System.Data.SQLite.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\System.Memory.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\System.Net.Http.WinHttpHandler.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\Chessie.pdb
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\Chessie.xml
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\EntityFramework.xml
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\FSharp.Core.xml
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\Mono.Cecil.pdb
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\Mono.Cecil.Mdb.pdb
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\Mono.Cecil.Pdb.pdb
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\Mono.Cecil.Rocks.pdb
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\NuGet.Common.xml
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\NuGet.Configuration.xml
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\NuGet.Frameworks.xml
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\NuGet.Packaging.xml
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\NuGet.Versioning.xml
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\Paket.Core.xml
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\System.Buffers.xml
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\System.CodeDom.xml
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\System.Data.SQLite.xml
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\System.Memory.xml
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\System.Net.Http.WinHttpHandler.xml
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\cs\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\de\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\es\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\fr\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\it\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\ja\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\ko\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\pl\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\pt-BR\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\ru\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\tr\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\obj\Debug\CookiesDumper.Properties.Resources.resources
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\obj\Debug\CookiesDumper.csproj.GenerateResource.cache
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\obj\Debug\CookiesDumper.csproj.CoreCompileInputs.cache
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\obj\Debug\CookiesDumper.csproj.CopyComplete
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\obj\Debug\CookiesDumper.exe
+C:\Users\TAWFIK\Desktop\C# Project\CookiesDumper\CookiesDumper\obj\Debug\CookiesDumper.pdb
